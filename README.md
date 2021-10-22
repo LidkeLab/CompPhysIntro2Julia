@@ -7,7 +7,7 @@ Julia Discourse community. Ask questions and get help:  [https://discourse.julia
 
 Get vscode: [https://code.visualstudio.com/](https://code.visualstudio.com/)
 
-# A few interesting examples of Julia Application-Specific Packages
+# A Few Interesting Examples of Julia Application-Specific Packages
 
 * [OpticSim.jl](https://microsoft.github.io/OpticSim.jl/dev/)
 * [FluxML Machine Learning](https://github.com/FluxML)
