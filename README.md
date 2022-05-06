@@ -19,5 +19,10 @@ Get vscode: [https://code.visualstudio.com/](https://code.visualstudio.com/)
 * [The Unreasonable Effectiveness of Multiple Dispatch](https://www.youtube.com/watch?v=kc9HwsxE1OY&t=278s)
 * [A programming language to heal the planet together: Julia | Alan Edelman | TEDxMIT](https://www.youtube.com/watch?v=qGW0GT1rCvs)
 
+# Guides and Tutorials
 
+* [Noteworthy Differences from other Languages](https://docs.julialang.org/en/v1/manual/noteworthy-differences/)
+* [Python-MATLAB-Julia CheatSheet](https://cheatsheets.quantecon.org/)
+* [Talk Julia ](https://www.youtube.com/c/talkjulia) Two experienced programmers discuss their adventures with Julia
+* [Julia Tutorial](https://www.youtube.com/watch?v=sE67bP2PnOo) "Learn Julia in one Video"
 
