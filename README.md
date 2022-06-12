@@ -25,4 +25,4 @@ Get vscode: [https://code.visualstudio.com/](https://code.visualstudio.com/)
 * [Python-MATLAB-Julia CheatSheet](https://cheatsheets.quantecon.org/)
 * [Talk Julia ](https://www.youtube.com/c/talkjulia) Two experienced programmers discuss their adventures with Julia
 * [Julia Tutorial](https://www.youtube.com/watch?v=sE67bP2PnOo) "Learn Julia in one Video"
-* [Julia for Talented Amateurs](https://www.youtube.com/c/juliafortalentedamateurs/videos)
+* [Julia for Talented Amateurs](https://www.youtube.com/c/juliafortalentedamateurs/videos) and its [GitHub Org](https://github.com/julia4ta/tutorials)
